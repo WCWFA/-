@@ -1,0 +1,4 @@
+﻿  查找.cpp
+F:\蓝桥\查找\查找.cpp(5,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\蓝桥\查找\查找.cpp(67,17): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  查找.vcxproj -> F:\蓝桥\查找\x64\Debug\查找.exe
