@@ -1,0 +1,3 @@
+﻿  差分.cpp
+F:\蓝桥\Day1\差分.cpp(4,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Day1.vcxproj -> F:\蓝桥\Day1\x64\Debug\Day1.exe
