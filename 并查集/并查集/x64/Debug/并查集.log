@@ -1,0 +1,3 @@
+﻿  并查集.cpp
+F:\蓝桥\并查集\并查集.cpp(3,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  并查集.vcxproj -> F:\蓝桥\并查集\x64\Debug\并查集.exe
