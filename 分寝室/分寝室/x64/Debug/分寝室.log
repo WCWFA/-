@@ -1,0 +1,3 @@
+﻿  分寝室.cpp
+F:\蓝桥\分寝室\分寝室.cpp(3,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  分寝室.vcxproj -> F:\蓝桥\分寝室\x64\Debug\分寝室.exe
