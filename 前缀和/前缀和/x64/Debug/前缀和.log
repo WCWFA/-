@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\蓝桥\前缀和\main.cpp(4,18): warning C4244: “初始化”: 从“double”转换到“ll”，可能丢失数据
+  前缀和.vcxproj -> F:\蓝桥\前缀和\x64\Debug\前缀和.exe
