@@ -1,0 +1,3 @@
+﻿  Tour.cpp
+F:\蓝桥\Tour\Tour.cpp(3,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Tour.vcxproj -> F:\蓝桥\Tour\x64\Debug\Tour(dfs遍历有序数对).exe
