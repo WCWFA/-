@@ -1,0 +1,3 @@
+﻿  Balanced Lineup G.cpp
+F:\蓝桥\Balanced Lineup G\Balanced Lineup G.cpp(3,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Balanced Lineup G.vcxproj -> F:\蓝桥\Balanced Lineup G\x64\Debug\Balanced Lineup G.exe
