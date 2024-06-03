@@ -1,0 +1,3 @@
+﻿  test.cpp
+F:\蓝桥\测试\test.cpp(13,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  测试.vcxproj -> F:\蓝桥\测试\x64\Debug\测试.exe
