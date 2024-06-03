@@ -1,0 +1,3 @@
+﻿  从A到B.cpp
+F:\蓝桥\由A到B\从A到B.cpp(11,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  由A到B.vcxproj -> F:\蓝桥\由A到B\x64\Debug\由A到B.exe
